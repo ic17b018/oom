@@ -5,6 +5,13 @@ using System.Net;
 
 namespace Task2
 {
+    public interface INFL_player
+    {
+        void Print();
+    }
+
+
+
     public class NFL_player
     {
         //Private field
